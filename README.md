@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @heatlee333
-- 👀 I’m interested in ... Recruiting/sourcing for Tech individuals 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... on any java related roles 
-- 📫 How to reach me ... 40 9995 3999
-- 😄 Pronouns: ... she him
-- ⚡ Fun fact: ... i like to hike
+- 👋 Hi, I’m Matthew Lee 
+- 👀 I’m interested in Recruiting/sourcing for roles like: Cloud/migration engineers, SDET, Salesforce Developers, Mulesoft Developers
+- 🌱 I’m currently learning HTTML/CSS 
+- 💞️ I’m looking to collaborate with individuals interested in consulting for the technologies listed above^ 
+- 📫 How to reach me: 
+  Email: mattlee@deloitte.com
+  Phone #: 401 996 5499
 
 <!---
 heatlee333/heatlee333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
